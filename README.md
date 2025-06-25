@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Chat Application
 
 A full-stack real-time chat application built with Node.js, Express, React, and Socket.IO.
@@ -69,3 +70,6 @@ A full-stack real-time chat application built with Node.js, Express, React, and 
 
 ## License
 MIT 
+=======
+# Real-Time-Chat-Application
+>>>>>>> 72e8d212c295e993c671fd9332ee7543e871c2fb
